@@ -10,7 +10,7 @@ import Logout from './components/Logout';
 import Nav from './components/Nav';
 import Admin from './components/Admin';
 import Edit from './components/Edit';
-import LandingPage from './components/LandingPage';
+import LandingPage from './components/Landingpage';
 import Profile from './components/Profile';
 import Home from './components/Home';
 
@@ -47,5 +47,6 @@ const App = () => {
     </BrowserRouter>
   );
 };
+
 
 export default App;
